@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 snowdreamtech/frps
 snowdreamtech/frpc
+ghcr.io/open-webui/open-webui:main
